@@ -2,19 +2,19 @@
   "students": [
     {
       "id": 1,
-      "stu_name": "Anubhav Karki",
-      "email": "anubhavkarki123@example.com",
+      "stu_name": "Dummy 1",
+      "email": "dummy1@example.com",
       "stuName": "Anubhav Karkif"
     },
     {
       "id": 2,
-      "stu_name": "Ishwari Thapa",
-      "email": "ishwarithapa2040@example.com"
+      "stu_name": "Dummy 2",
+      "email": "dummy2@example.com"
     },
     {
       "id": 3,
-      "stu_name": "Abhaya Karki",
-      "email": "abhayakarki47@example.com"
+      "stu_name": "Dummy 3",
+      "email": "dummy3@example.com"
     }
   ]
 }
