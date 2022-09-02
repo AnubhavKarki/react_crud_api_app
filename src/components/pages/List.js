@@ -45,14 +45,6 @@ const List = () => {
         console.log("Something Went Wrong");
       }
     }
-
-    // async function handleDelete(id_){
-    //   await axios.delete(`http://localhost:3004/students/${id_}`);
-    //   var newStudentList = student.filter(item => {
-    //     return item.id !== id_;
-    //   })
-    //   setStudent(newStudentList);
-    // }
   return (
     <>
       <Box textAlign={"center"} p={2} backgroundColor="orange">
